@@ -259,8 +259,8 @@
 <section id="contact">
   <h2>Contact</h2>
   <p>Email: <a href="subash.cs24@kascsathy.ac.in">subash.cs24@kascsathy.ac.in</a></p>
-  <p>Phone: +91-9865092092</p>
-  <p>Location: A1hani, Gobi, India</p>
+  <p>Phone: +91-6383297878</p>
+  <p>Location: Tiruppur, perumanellur, India</p>
   <div style="margin-top: 1rem;">
 	<a href="https://linkedin.com/in/subash" target="_blank">LinkedIn</a> |
 	<a href="https://github.com/subash" target="_blank">GitHub</a> |
